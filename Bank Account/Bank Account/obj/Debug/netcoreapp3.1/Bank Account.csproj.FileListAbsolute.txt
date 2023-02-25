@@ -1,0 +1,14 @@
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\obj\Debug\netcoreapp3.1\Bank Account.csproj.AssemblyReference.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\obj\Debug\netcoreapp3.1\Bank Account.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\obj\Debug\netcoreapp3.1\Bank Account.AssemblyInfoInputs.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\obj\Debug\netcoreapp3.1\Bank Account.AssemblyInfo.cs
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\obj\Debug\netcoreapp3.1\Bank Account.csproj.CoreCompileInputs.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\bin\Debug\netcoreapp3.1\Bank Account.exe
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\bin\Debug\netcoreapp3.1\Bank Account.deps.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\bin\Debug\netcoreapp3.1\Bank Account.runtimeconfig.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\bin\Debug\netcoreapp3.1\Bank Account.runtimeconfig.dev.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\bin\Debug\netcoreapp3.1\Bank Account.dll
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\bin\Debug\netcoreapp3.1\Bank Account.pdb
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\obj\Debug\netcoreapp3.1\Bank Account.dll
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\obj\Debug\netcoreapp3.1\Bank Account.pdb
+D:\HỌC VkU\Kỳ 2 22-23\c#\22-2 Collection and Generic\Bank Account\Bank Account\obj\Debug\netcoreapp3.1\Bank Account.genruntimeconfig.cache

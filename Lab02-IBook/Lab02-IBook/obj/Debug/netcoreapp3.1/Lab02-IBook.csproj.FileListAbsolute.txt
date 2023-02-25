@@ -1,0 +1,14 @@
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\obj\Debug\netcoreapp3.1\Lab02-IBook.csproj.AssemblyReference.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\obj\Debug\netcoreapp3.1\Lab02-IBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\obj\Debug\netcoreapp3.1\Lab02-IBook.AssemblyInfoInputs.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\obj\Debug\netcoreapp3.1\Lab02-IBook.AssemblyInfo.cs
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\obj\Debug\netcoreapp3.1\Lab02-IBook.csproj.CoreCompileInputs.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\bin\Debug\netcoreapp3.1\Lab02-IBook.exe
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\bin\Debug\netcoreapp3.1\Lab02-IBook.deps.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\bin\Debug\netcoreapp3.1\Lab02-IBook.runtimeconfig.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\bin\Debug\netcoreapp3.1\Lab02-IBook.runtimeconfig.dev.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\bin\Debug\netcoreapp3.1\Lab02-IBook.dll
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\bin\Debug\netcoreapp3.1\Lab02-IBook.pdb
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\obj\Debug\netcoreapp3.1\Lab02-IBook.dll
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\obj\Debug\netcoreapp3.1\Lab02-IBook.pdb
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2 viet\ex2\Lab02-IBook\Lab02-IBook\obj\Debug\netcoreapp3.1\Lab02-IBook.genruntimeconfig.cache
